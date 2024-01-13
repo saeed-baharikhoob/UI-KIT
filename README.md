@@ -12,7 +12,7 @@ This project is a comprehensive example for building UI Kit  with React, TypeScr
   <img src="src/images/gifs/6.gif" alt="Alt Text" height="100px" />
 </p>
 
-To use this UI Kit in your project, follow these steps:
+To use this UI Kit, follow these steps:
 <ol><li>Clone the repository.</li><li>Install dependencies using <code>yarn</code>.</li><li>Run the development server with <code>yarn storybook</code>.</li></ol>
 
 
