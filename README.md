@@ -4,13 +4,13 @@
 This project is a comprehensive example for building UI Kit  with React, TypeScript, and Emotion. this kit integrates seamlessly with Storybook for component management, making it easy for developers to browse and test different states of each component.
 
 <p align="center">
-  <img src="src/images/gifs/1.gif" alt="Alt Text" height="200px" width="40%" />
-  <img src="src/images/gifs/2.gif" alt="Alt Text" height="200px" width="40%" />
-  <img src="src/images/gifs/3.gif" alt="Alt Text" height="200px" width="40%" />
-  <img src="src/images/gifs/4.gif" alt="Alt Text" height="200px" width="40%" />
-  <img src="src/images/gifs/5.gif" alt="Alt Text" height="120px"  width="40%"/>
-  <img src="src/images/gifs/6.gif" alt="Alt Text" height="120px" width="40%"/>
-  <img src="src/images/gifs/7.gif" alt="Alt Text" height="120px" width="40%"/>
+  <img src="src/images/gifs/1.gif" alt="Alt Text" height="200px" width="47%" />
+  <img src="src/images/gifs/2.gif" alt="Alt Text" height="200px" width="47%" />
+  <img src="src/images/gifs/3.gif" alt="Alt Text" height="200px" width="47%" />
+  <img src="src/images/gifs/4.gif" alt="Alt Text" height="200px" width="47%" />
+  <img src="src/images/gifs/5.gif" alt="Alt Text" height="120px"  width="47%"/>
+  <img src="src/images/gifs/6.gif" alt="Alt Text" height="120px" width="47%"/>
+  <img src="src/images/gifs/7.gif" alt="Alt Text" height="158px" width="47%"/>
 
 </p>
 
