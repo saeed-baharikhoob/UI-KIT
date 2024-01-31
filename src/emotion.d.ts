@@ -11,6 +11,9 @@ declare module '@emotion/react' {
             warning: string
             disabled: string
             text: string
+            white: string
+            black: string
+            pagination: string
         }
     }
 }

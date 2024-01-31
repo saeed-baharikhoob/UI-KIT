@@ -20,6 +20,9 @@ const theme  = {
         warningDark: '#F8BC3A',
         disabled: '#F7F3F6',
         text: '#FFFAFF',
+        black:'#000000',
+        white:'#ffffff',
+        pagination:'#ef394e'
     }
 }
 const Provider = ({children}: props) => (

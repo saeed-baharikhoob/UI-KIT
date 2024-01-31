@@ -5,3 +5,4 @@ export { Loading } from "./components/Loading/Loading";
 export { Tabs } from "./components/Tabs/Tabs";
 export { Accordion } from "./components/Accordion/Accordion";
 export { Tag } from "./components/Tag/Tag";
+export { Pagination } from "./components/Pagination/Pagination";
