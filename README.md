@@ -10,6 +10,7 @@ This project is a comprehensive example for building UI Kit  with React, TypeScr
   <img src="src/images/gifs/4.gif" alt="Alt Text" height="200px" />
   <img src="src/images/gifs/5.gif" alt="Alt Text" height="120px" />
   <img src="src/images/gifs/6.gif" alt="Alt Text" height="100px" />
+  <img src="src/images/gifs/7.gif" alt="Alt Text" height="100px" />
 </p>
 
 To use this UI Kit, follow these steps:
@@ -34,6 +35,7 @@ This UI kit includes the following components with customization capabilities:
 - **Loading**
 - **Tabs**
 - **Tag**
+- **Pagination**
 
 
 ## Connect with Me
